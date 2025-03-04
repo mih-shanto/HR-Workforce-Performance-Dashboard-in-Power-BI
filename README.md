@@ -4,6 +4,10 @@
 
 I developed an **HR Analytics Dashboard in Power BI** to help HR teams track **key employee metrics** such as **attendance, working hours, performance, and leaves**. This solution improves **workforce management** and **automates reporting**, saving the HR team **3-4 hours of manual work daily**!  
 
+## 🖥️ Screenshots  
+
+![Dashboard Preview](https://github.com/mih-shanto/HR-Workforce-Performance-Dashboard-in-Power-BI/blob/main/Project%20File/2.1.png)
+
 ---
 
 ## 📌 Key Features  
@@ -21,14 +25,6 @@ I developed an **HR Analytics Dashboard in Power BI** to help HR teams track **k
 ✔ **Reduces HR workload by 3-4 hours daily**  
 ✔ **Enhances decision-making with interactive insights**  
 ✔ **Streamlines workforce planning and HR operations**  
-
----
-
-## 🖥️ Screenshots  
-
-![Dashboard Preview](https://github.com/mih-shanto/HR-Workforce-Performance-Dashboard-in-Power-BI/blob/main/Project%20File/2.1.png)
-
-> ⚠️ *Replace the link above with your actual image URL after uploading it to GitHub.*
 
 ---
 
