@@ -8,7 +8,7 @@ I developed an **HR Analytics Dashboard in Power BI** to help HR teams track **k
 
 ![Dashboard Preview](https://github.com/mih-shanto/HR-Workforce-Performance-Dashboard-in-Power-BI/blob/main/Project%20File/2.1.png)
 ![Dashboard Preview](https://github.com/mih-shanto/HR-Workforce-Performance-Dashboard-in-Power-BI/blob/main/Project%20File/2.2.png)
-![Dashboard Preview](https://github.com/mih-shanto/HR-Workforce-Performance-Dashboard-in-Power-BI/blob/main/Project%20File/1.png))
+![Dashboard Preview](https://github.com/mih-shanto/HR-Workforce-Performance-Dashboard-in-Power-BI/blob/main/Project%20File/1.png)
 ---
 
 ## 📌 Key Features  
